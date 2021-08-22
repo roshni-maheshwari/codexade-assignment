@@ -1,0 +1,55 @@
+.e-shop{
+    background-color: #222224;
+    overflow: hidden;
+    padding-top: 60px;
+
+    &__text-box{
+        padding-left: 150px;
+        padding-right: 150px;
+    }
+
+    &__paragraph{
+        color: #5a9dbd;
+        padding-left: 165px;
+        padding-top: 50px;
+
+        &--1{
+            color: #9d9f9e;
+            // padding-left: 200px;
+            text-align: center;
+            text-transform: capitalize;
+        }
+    }
+    &__image{
+        height: 100%;
+        width: 100%;
+    }
+    &__images{
+        &--box{
+            height: 300px;
+        }
+
+        &--container{
+            position: absolute;
+            bottom: 5%;
+            left: 50%;
+            transform: translate(-50%,);
+            width: 90%;
+            height: 90%;
+            background-image: linear-gradient(rgba(255, 29, 105, .8),rgba(255, 29, 105, .8));
+        }
+        &--paragraph{
+            position: absolute;
+            transform: translate(-50%);
+            left: 50%;
+            bottom: 0px;
+            font-size: 25px;
+            background-image: linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.6));
+            padding: 15px;
+            width: 100%;
+            padding-left:50px ;
+
+        }
+    }
+   
+}
