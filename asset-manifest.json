@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/codexade-assignment/static/css/main.c94e4c3c.chunk.css",
-    "main.js": "/codexade-assignment/static/js/main.b8111c6a.chunk.js",
-    "main.js.map": "/codexade-assignment/static/js/main.b8111c6a.chunk.js.map",
+    "main.js": "/codexade-assignment/static/js/main.87ca7b19.chunk.js",
+    "main.js.map": "/codexade-assignment/static/js/main.87ca7b19.chunk.js.map",
     "runtime-main.js": "/codexade-assignment/static/js/runtime-main.748a82a6.js",
     "runtime-main.js.map": "/codexade-assignment/static/js/runtime-main.748a82a6.js.map",
     "static/css/2.80588387.chunk.css": "/codexade-assignment/static/css/2.80588387.chunk.css",
@@ -30,6 +30,6 @@
     "static/css/2.80588387.chunk.css",
     "static/js/2.8c8de1ed.chunk.js",
     "static/css/main.c94e4c3c.chunk.css",
-    "static/js/main.b8111c6a.chunk.js"
+    "static/js/main.87ca7b19.chunk.js"
   ]
 }
