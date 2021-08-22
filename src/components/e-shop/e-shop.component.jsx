@@ -37,8 +37,15 @@ const EShop = () => {
                     <div className='col-6 p-0 col-md-4 p-md-0 position-relative'>
                         <div className='e-shop__images--box'>
                             <img src={EShopImage1} className='e-shop__image'  alt='E-ShopImage' />
-                                <div className='e-shop__images--container'>
+                                <div className='e-shop__images--container text-center'>
                                     <h3 className='text-white text-center fw-light pt-4'>Advanced E-Books</h3>
+                                    <p className='fs-6 text-white tw-thin p-4 text-center'>
+                                        <small>
+                                            eBooks on subjects of the EASA syllabus that contains questions
+                                            & and answers with explanations for ATPL, CPL, IR & CBIR/EIR levels.
+                                        </small>
+                                    </p>
+                                    <button type="button" class="btn bg-white rounded-pill text-center text-dark tw-thin"><small>Read More</small></button>
                                 </div>
                         </div>
                     </div>

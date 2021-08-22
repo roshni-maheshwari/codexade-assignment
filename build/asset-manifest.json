@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/codexade-assignment/static/css/main.c94e4c3c.chunk.css",
-    "main.js": "/codexade-assignment/static/js/main.b8111c6a.chunk.js",
-    "main.js.map": "/codexade-assignment/static/js/main.b8111c6a.chunk.js.map",
-    "runtime-main.js": "/codexade-assignment/static/js/runtime-main.748a82a6.js",
-    "runtime-main.js.map": "/codexade-assignment/static/js/runtime-main.748a82a6.js.map",
+    "main.css": "/codexade-assignment/static/css/main.59c5fb06.chunk.css",
+    "main.js": "/codexade-assignment/static/js/main.d869535f.chunk.js",
+    "main.js.map": "/codexade-assignment/static/js/main.d869535f.chunk.js.map",
+    "runtime-main.js": "/codexade-assignment/static/js/runtime-main.bf724b6d.js",
+    "runtime-main.js.map": "/codexade-assignment/static/js/runtime-main.bf724b6d.js.map",
     "static/css/2.80588387.chunk.css": "/codexade-assignment/static/css/2.80588387.chunk.css",
-    "static/js/2.8c8de1ed.chunk.js": "/codexade-assignment/static/js/2.8c8de1ed.chunk.js",
-    "static/js/2.8c8de1ed.chunk.js.map": "/codexade-assignment/static/js/2.8c8de1ed.chunk.js.map",
-    "static/js/3.5128e36b.chunk.js": "/codexade-assignment/static/js/3.5128e36b.chunk.js",
-    "static/js/3.5128e36b.chunk.js.map": "/codexade-assignment/static/js/3.5128e36b.chunk.js.map",
+    "static/js/2.6518d41f.chunk.js": "/codexade-assignment/static/js/2.6518d41f.chunk.js",
+    "static/js/2.6518d41f.chunk.js.map": "/codexade-assignment/static/js/2.6518d41f.chunk.js.map",
+    "static/js/3.cd609ac5.chunk.js": "/codexade-assignment/static/js/3.cd609ac5.chunk.js",
+    "static/js/3.cd609ac5.chunk.js.map": "/codexade-assignment/static/js/3.cd609ac5.chunk.js.map",
     "index.html": "/codexade-assignment/index.html",
     "static/css/2.80588387.chunk.css.map": "/codexade-assignment/static/css/2.80588387.chunk.css.map",
-    "static/css/main.c94e4c3c.chunk.css.map": "/codexade-assignment/static/css/main.c94e4c3c.chunk.css.map",
-    "static/js/2.8c8de1ed.chunk.js.LICENSE.txt": "/codexade-assignment/static/js/2.8c8de1ed.chunk.js.LICENSE.txt",
+    "static/css/main.59c5fb06.chunk.css.map": "/codexade-assignment/static/css/main.59c5fb06.chunk.css.map",
+    "static/js/2.6518d41f.chunk.js.LICENSE.txt": "/codexade-assignment/static/js/2.6518d41f.chunk.js.LICENSE.txt",
     "static/media/books-1.04d64109.jpg": "/codexade-assignment/static/media/books-1.04d64109.jpg",
     "static/media/books-2.b8eb83cb.jfif": "/codexade-assignment/static/media/books-2.b8eb83cb.jfif",
     "static/media/books-3.2a33c286.jfif": "/codexade-assignment/static/media/books-3.2a33c286.jfif",
@@ -26,10 +26,10 @@
     "static/media/image-3.537b168f.jpg": "/codexade-assignment/static/media/image-3.537b168f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.748a82a6.js",
+    "static/js/runtime-main.bf724b6d.js",
     "static/css/2.80588387.chunk.css",
-    "static/js/2.8c8de1ed.chunk.js",
-    "static/css/main.c94e4c3c.chunk.css",
-    "static/js/main.b8111c6a.chunk.js"
+    "static/js/2.6518d41f.chunk.js",
+    "static/css/main.59c5fb06.chunk.css",
+    "static/js/main.d869535f.chunk.js"
   ]
 }
